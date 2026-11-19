@@ -1,0 +1,20 @@
+{
+    "name": "Grabiii",
+    "short_name": "Grabiii",
+    "start_url": "/",
+    "background_color": "#0D6EFD",
+    "theme_color": "#0A2472",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/images/images192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/images512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
